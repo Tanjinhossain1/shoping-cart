@@ -1,0 +1,22 @@
+.bg-color{
+    background-color: #f6f5fa;
+}
+.extra{
+    border: 1px solid rgb(241, 234, 234);
+    width: 65px;
+    text-align: center;
+    background-color: #f6f5fa;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.borderBg{
+    border: 1px solid transparent;
+}
+.chek-button{
+    border: 1px solid #2fbe70;
+    border-radius: 15px;
+    background-color: #2fbe70;
+   
+    padding: 20px;
+    margin-top: 30px;
+}
